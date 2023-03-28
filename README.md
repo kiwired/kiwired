@@ -14,6 +14,6 @@ I'm always eager to learn new things and expand my skill set. I'm passionate abo
 
 Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.
 
-Email: maksimdoronin93@gmail.com
-LinkedIn: https://www.linkedin.com/in/maxim-doronin/
+Email: maksimdoronin93@gmail.com  
+LinkedIn: https://www.linkedin.com/in/maxim-doronin/  
 Thanks for visiting my GitHub! 🙌
