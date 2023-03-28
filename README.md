@@ -1,16 +1,19 @@
-### Hi there 👋
+### ✨ Resume
 
-<!--
-**kiwired/kiwired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Max**, a Full-Stack Web Developer.
 
-Here are some ideas to get you started:
+I am proficient in the following programming languages and technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 JavaScript / TypeScript
+- 🔥 React / Redux / GraphQL
+- 💡 Node.js / Koa / Next
+
+I'm always eager to learn new things and expand my skill set. I'm passionate about developing great user experiences and creating robust, scalable applications.
+
+### 💬 Contact Me
+
+Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.
+
+Email: maksimdoronin93@gmail.com
+LinkedIn: https://www.linkedin.com/in/maxim-doronin/
+Thanks for visiting my GitHub! 🙌
